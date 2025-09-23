@@ -1,0 +1,10 @@
+accelerate==0.33.0
+beir==2.0.0
+torch==2.4.0
+bitsandbytes==0.43.3
+flash-attn==2.6.3
+numpy==1.26.3
+pyserini==0.37.0
+pytrec-eval==0.5
+transformers==4.45.0
+rank_eval==0.1.3
