@@ -3,6 +3,8 @@ Repository for attention-based reranker with contrastive retrieval head detectio
 
 The attention-based reranker implementation is adapted from [In-Context-Reranking](https://github.com/OSU-NLP-Group/In-Context-Reranking).
 
+![](core_fig.png)
+
 # Datasets
 We use [granite-embedding-30m-english](https://huggingface.co/ibm-granite/granite-embedding-30m-english) to retrieve top-40 documents for BEIR benchmark, and [granite-embedding-107m-multilingual](https://huggingface.co/ibm-granite/granite-embedding-107m-multilingual) for MLDR datasets.
 
